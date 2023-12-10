@@ -1,4 +1,4 @@
-from C2023.days.day01.part1 import read_puzzle_input, find_calibration_value
+from .part1 import read_puzzle_input, find_calibration_value
 import re
 
 WORDS_DIGITS = {

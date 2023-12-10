@@ -4,4 +4,10 @@ This repository contains my solutions to the [Advent of Code](https://adventofco
 
 ## Table of Contents
 - 2023 Solutions
+
+  ```
+  cd adventofcode/C2023
+  python main.py
+  ```
+
   - [Day 01](C2023/days/day01/README.md)

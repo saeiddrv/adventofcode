@@ -5,7 +5,7 @@ PUZZLE_INPUT_FILE = 'day01p01_input.txt'
 
 
 def read_puzzle_input():
-    with open(resource_filename('C2023.resources', PUZZLE_INPUT_FILE), 'r') as file:
+    with open(resource_filename('resources', PUZZLE_INPUT_FILE), 'r') as file:
         lines = file.readlines()
     lines = [line.strip().lower() for line in lines]
     return lines
