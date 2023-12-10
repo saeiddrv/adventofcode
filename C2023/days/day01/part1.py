@@ -1,7 +1,7 @@
 from pkg_resources import resource_filename
 import re
 
-PUZZLE_INPUT_FILE = 'day01p01_input.txt'
+PUZZLE_INPUT_FILE = 'day01_input.txt'
 
 
 def read_puzzle_input():
