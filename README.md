@@ -9,3 +9,4 @@ This repository contains my solutions to the [Advent of Code](https://adventofco
 
   - [Day 01](C2023/days/day01/README.md)
   - [Day 02](C2023/days/day02/README.md)
+  - [Day 03](C2023/days/day03/README.md)
