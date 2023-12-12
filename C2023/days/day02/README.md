@@ -56,4 +56,4 @@ For each game, find the minimum set of cubes that must have been present. **What
 
 
 ## Main Article Link
-For more details and the original puzzle, visit the [Advent of Code 2023 - Day 1 page](https://adventofcode.com/2023/day/2).
+For more details and the original puzzle, visit the [Advent of Code 2023 - Day 2 page](https://adventofcode.com/2023/day/2).
